@@ -13,6 +13,6 @@ public class Programme_15_SwapTheValue {
         c = a;
         a = b;
         b = c;
-        System.out.println("After tge swapping, the value of first variable is :" + a + " and second variable is : " + b);
+        System.out.println("After the swapping, the value of first variable is :" + a + " and second variable is : " + b);
     }
 }
